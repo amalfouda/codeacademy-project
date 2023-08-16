@@ -1,0 +1,46 @@
+.bar
+{
+    background-color: rgb(8, 0, 0);
+    width: 100%;
+    height: 50px;
+    
+}
+.bar span
+{
+    color: white;
+}
+.logo
+{
+    display: inline;
+    color: rgb(163, 7, 7);
+    margin-right:150px ;
+
+}
+.links 
+{
+    display: inline;
+    margin-right: 50px;
+   
+    
+}
+.links a
+{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    margin-left: 100px;
+    padding:auto; 
+
+   
+}
+.sub
+{
+    background-color:  rgb(163, 7, 7);
+    border: solid;
+   font-weight: bold;
+   font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 7px;
+}
